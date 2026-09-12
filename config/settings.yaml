@@ -1,0 +1,12 @@
+# Parametros de negocio do calculo de frete.
+frete:
+  tarifa_base: 10.00
+  valor_por_quilo_adicional: 2.50
+  peso_maximo_kg: 50
+  distancia_longa_km: 500
+  percentual_longa_distancia: 30
+
+arredondamento:
+  quilo_adicional: para_cima
+
+moeda: BRL
